@@ -6,6 +6,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 
 ## Projects
 
+- [VERTECS Nanosatellite Project](https://global.jaxa.jp/press/2022/12/20221208-1_e.html) - This mission seeks to investigate star formation history by observing the cosmic background radiation using a 6U-size nanosatellite with a small-aperture telescope.
 - [GalaxyClassification](https://github.com/ezrafielding/GalaxyClassification) - Attempting to classify galaxy morphology using various supervised and unsupervised machine learning techniques.
 
 
