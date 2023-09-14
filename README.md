@@ -1,6 +1,6 @@
 # Ezra Fielding
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezra-fielding/) [![GitHub](https://img.shields.io/github/followers/ezrafielding.svg?style=social&label=Follow)](https://github.com/ezrafielding) [![Twitter](https://img.shields.io/twitter/follow/ezrafielding.svg?style=social)](https://twitter.com/ezrafielding)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezra-fielding/) [![GitHub](https://img.shields.io/github/followers/ezrafielding.svg?style=social&label=Follow)](https://github.com/ezrafielding) [![X](https://img.shields.io/twitter/follow/ezrafielding.svg?style=social)](https://x.com/ezrafielding)
 
 Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student at Kyushu Institute of Technology. I am interested in applying ML and AI techniques to nanosatellites.
 
