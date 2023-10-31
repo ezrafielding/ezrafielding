@@ -25,4 +25,4 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 
 ## Contact
 
-Feel free to reach out to me on [Twitter](https://twitter.com/ezrafielding) or [LinkedIn](https://www.linkedin.com/in/ezra-fielding/).
+Feel free to reach out to me on [X](https://x.com/ezrafielding) or [LinkedIn](https://www.linkedin.com/in/ezra-fielding/).
