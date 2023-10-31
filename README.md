@@ -17,6 +17,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
 
 ## Publications
+- Keenan A. A. Chatar, Ezra Fielding, Kei Sano, and Kentaro Kitamura "Data downlink prioritization using image classification on-board a 6U CubeSat", Proc. SPIE 12729, Sensors, Systems, and Next-Generation Satellites XXVII, 127290K (19 October 2023); doi: [10.1117/12.2684047](https://doi.org/10.1117/12.2684047)
 - E. Fielding, C. N. Nyirenda and M. Vaccari, "The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques," 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2022, pp. 1-6, doi: [10.1109/ICECET55527.2022.9872611](https://doi.org/10.1109/ICECET55527.2022.9872611).
   - Repo: https://github.com/ezrafielding/galaxy-cluster
 - E. Fielding, C. N. Nyirenda and M. Vaccari, "A Comparison of Deep Learning Architectures for Optical Galaxy Morphology Classification," 2021 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2021, pp. 1-5, doi: [10.1109/ICECET52533.2021.9698414](https://doi.org/10.1109/ICECET52533.2021.9698414).
