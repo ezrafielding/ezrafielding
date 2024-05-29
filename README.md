@@ -7,6 +7,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 ## Projects
 
 - [VERTECS Nanosatellite Project](https://vertecs-project.com/) - This mission seeks to investigate star formation history by observing the cosmic background radiation using a 6U-size nanosatellite with a small-aperture telescope.
+  - [VERTECS Camera Control Board](https://github.com/ezrafielding/vertecs-ccb) - Open-source nanosatellite payload interface board leveraging Commercial Off-The-Shelf (COTS) components with a Raspberry Pi Compute Module 4 at its core.
 - [GalaxyClassification](https://github.com/ezrafielding/GalaxyClassification) - Attempting to classify galaxy morphology using various supervised and unsupervised machine learning techniques.
 
 
