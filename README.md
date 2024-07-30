@@ -18,8 +18,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
 
 ## Publications
-- **E. Fielding**, V. H. Schulz, K. A. A. Chatar, K. Sano, and A. Hanazawa, VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging
-payloads, 2024. arXiv: [2406.00935 \[astro-ph.IM\]](https://arxiv.org/abs/2406.00935).
+- **E. Fielding**, V. H. Schulz, K. A. A. Chatar, K. Sano, and A. Hanazawa, ‘VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging payloads’, in Software and Cyberinfrastructure for Astronomy VIII, 2024, vol. 13101, p. 131010J, doi: [10.1117/12.3019471](https://doi.org/10.1117/12.3019471).
   - Repo: https://github.com/ezrafielding/vertecs-ccb
 - **E. Fielding**, C. N. Nyirenda and M. Vaccari, "The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques," 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2022, pp. 1-6, doi: [10.1109/ICECET55527.2022.9872611](https://doi.org/10.1109/ICECET55527.2022.9872611).
   - Repo: https://github.com/ezrafielding/galaxy-cluster
