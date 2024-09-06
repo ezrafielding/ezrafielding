@@ -14,7 +14,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 
 ## Education
 
-- Master of Engineering - Electrical and Space Systems Engineering, [Kyushu Institute of Technology](https://www.kyutech.ac.jp/english/) (October 2022 to Present)
+- Master of Engineering - Electrical and Space Systems Engineering, [Kyushu Institute of Technology](https://www.kyutech.ac.jp/english/) (October 2022 to September 2024)
 - Bachelor of Science Honors - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2021 to December 2021)
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
 
