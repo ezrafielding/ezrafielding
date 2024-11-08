@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezra-fielding/) [![GitHub](https://img.shields.io/github/followers/ezrafielding.svg?style=social&label=Follow)](https://github.com/ezrafielding) [![X](https://img.shields.io/twitter/follow/ezrafielding.svg?style=social)](https://x.com/ezrafielding)
 
-Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am studying the application of distributed computing to satellite swarms.
+Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am studying distributed computing for satellite swarms.
 
 ## Projects
 
