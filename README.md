@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezra-fielding/) [![GitHub](https://img.shields.io/github/followers/ezrafielding.svg?style=social&label=Follow)](https://github.com/ezrafielding) [![X](https://img.shields.io/twitter/follow/ezrafielding.svg?style=social)](https://x.com/ezrafielding)
 
-Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student at Kyushu Institute of Technology. I am interested in applying ML and AI techniques to nanosatellites.
+Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am studying the application of distributed computing to satellite swarms.
 
 ## Projects
 
@@ -14,6 +14,7 @@ Hi there! I'm Ezra, a Master of Electrical and Space Systems Engineering student
 
 ## Education
 
+- PhD - Distributed Computing for Satellite Swarms, [Ecole Nationale de l'Aviation Civile](https://www.enac.fr/en) (November 2024 to Present)
 - Master of Engineering - Electrical and Space Systems Engineering, [Kyushu Institute of Technology](https://www.kyutech.ac.jp/english/) (October 2022 to September 2024)
 - Bachelor of Science Honors - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2021 to December 2021)
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
