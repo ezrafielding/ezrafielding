@@ -11,10 +11,16 @@ Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am 
   - [VERTECS Camera Control Board](https://github.com/ezrafielding/vertecs-ccb) - Open-source nanosatellite payload interface board leveraging Commercial Off-The-Shelf (COTS) components with a Raspberry Pi Compute Module 4 at its core.
 - [GalaxyClassification](https://github.com/ezrafielding/GalaxyClassification) - Attempting to classify galaxy morphology using various supervised and unsupervised machine learning techniques.
 
+## Experience
+- Doctoral Researcher - Distributed Computing for Satellite Swarms, [CNES](https://cnes.fr/en) (November 2024 to Present)
+- Part-time Software Developer, Figratia Ventures (January 2022 to March 2022)
+- Teaching Assistant - Introduction to Computer Science COS101, [University of the Western Cape](https://www.uwc.ac.za/) (March 2021 to November 2021)
+- Computer Science Tutor - Introduction to Computer Science COS101, [University of the Western Cape](https://www.uwc.ac.za/) (March 2019 to March 2021)
+- Lego Robotics Instructor, Future Lab Educational Services (January 2018 to July 2019)
 
 ## Education
 
-- PhD - Distributed Computing for Satellite Swarms, [Ecole Nationale de l'Aviation Civile](https://www.enac.fr/en) (November 2024 to Present)
+- PhD - Computer Science and Telecommunications, [Ecole Nationale de l'Aviation Civile](https://www.enac.fr/en) (November 2024 to Present)
 - Master of Engineering - Electrical and Space Systems Engineering, [Kyushu Institute of Technology](https://www.kyutech.ac.jp/english/) (October 2022 to September 2024)
 - Bachelor of Science Honors - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2021 to December 2021)
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
