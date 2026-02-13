@@ -12,7 +12,7 @@ Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am 
 - [GalaxyClassification](https://github.com/ezrafielding/GalaxyClassification) - Attempting to classify galaxy morphology using various supervised and unsupervised machine learning techniques.
 
 ## Experience
-- Doctoral Researcher - Distributed Computing for Satellite Swarms, [CNES](https://cnes.fr/en) (November 2024 to Present)
+- Doctoral Researcher - Distributed Computing for Satellite Swarms, [Centre National d'Études Spatiales](https://cnes.fr/en) (November 2024 to Present)
 - Teaching Assistant - Embedded Software for Space Applications EM467, [ISAE-SUPAERO](https://www.isae-supaero.fr/en/) (January 2026 to Present)
 - Part-time Software Developer, Figratia Ventures (January 2022 to March 2022)
 - Teaching Assistant - Introduction to Computer Science COS101, [University of the Western Cape](https://www.uwc.ac.za/) (March 2021 to November 2021)
