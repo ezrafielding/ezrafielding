@@ -2,7 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ezra-fielding/) [![GitHub](https://img.shields.io/github/followers/ezrafielding.svg?style=social&label=Follow)](https://github.com/ezrafielding) [![X](https://img.shields.io/twitter/follow/ezrafielding.svg?style=social)](https://x.com/ezrafielding)
 
-Hi there! I'm Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC. I am studying distributed computing for satellite swarms.
+Hi there! I’m Ezra, a Doctoral Researcher at CNES and PhD Student at ENAC in Toulouse. I’m studying distributed computing for satellite swarms, looking at how constellations can coordinate themselves without leaning on the ground.
+
+Before that, I did my Master’s at Kyutech in Japan, where I designed the Camera Control Board for the VERTECS nanosatellite and worked on AI for nanosatellites. I’m also a 2026 IAF Emerging Space Leader and a NextGen Plenary Panelist.
 
 ## Projects
 
