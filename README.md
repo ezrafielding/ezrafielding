@@ -29,6 +29,8 @@ Before that, I did my Master’s at Kyutech in Japan, where I designed the Camer
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
 
 ## Publications
+- **E. Fielding**, C. Demazure, G. Silvestre, F. A. Suana, and P. Queinnec, "A Distributed Computing Framework for Satellite Swarms," 2026 22nd International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2026, pp. 98-103, doi: [10.1109/WiMob70978.2026.11777913](https://doi.org/10.1109/WiMob70978.2026.11777913).
+  - Repo: https://github.com/ezrafielding/GoNetEmSwarm
 - **E. Fielding** and A. Hanazawa, "Flexible Natural Language-Based Image Data Downlink Prioritization for Nanosatellites", Aerospace, vol. 11, no. 11, 2024, doi: [10.3390/aerospace11110888](https://doi.org/10.3390/aerospace11110888).
   - Repo: https://github.com/ezrafielding/PrioriSat
 - **E. Fielding**, V. H. Schulz, K. A. A. Chatar, K. Sano, and A. Hanazawa, "VERTECS: A COTS-based payload interface board to enable next generation astronomical imaging payloads", in Software and Cyberinfrastructure for Astronomy VIII, 2024, vol. 13101, p. 131010J, doi: [10.1117/12.3019471](https://doi.org/10.1117/12.3019471).
