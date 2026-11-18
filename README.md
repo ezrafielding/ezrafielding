@@ -29,7 +29,8 @@ Before that, I did my Master’s at Kyutech in Japan, where I designed the Camer
 - Bachelor of Science - Computer Science, [University of the Western Cape](https://www.uwc.ac.za/) (February 2018 to December 2020)
 
 ## Publications
-- **E. Fielding**, C. Demazure, G. Silvestre, F. A. Suana, and P. Queinnec, "A Distributed Computing Framework for Satellite Swarms," 2026 22nd International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2026, pp. 98-103, doi: [10.1109/WiMob70978.2026.11777913](https://doi.org/10.1109/WiMob70978.2026.11777913).
+- **E. Fielding**, G. Silvestre, F. Alves Suana, and P. Queinnec, "Mixed Consistency Distributed State for Space Situational Awareness in Satellite Swarms," 77th International Astronautical Congress (IAC), 2026, url: [dl.iafastro.directory/event/IAC-2026/paper/105711](https://dl.iafastro.directory/event/IAC-2026/paper/105711/).
+- **E. Fielding**, C. Demazure, G. Silvestre, F. Alves Suana, and P. Queinnec, "A Distributed Computing Framework for Satellite Swarms," 2026 22nd International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2026, pp. 98-103, doi: [10.1109/WiMob70978.2026.11777913](https://doi.org/10.1109/WiMob70978.2026.11777913).
   - Repo: https://github.com/ezrafielding/GoNetEmSwarm
 - **E. Fielding** and A. Hanazawa, "Flexible Natural Language-Based Image Data Downlink Prioritization for Nanosatellites", Aerospace, vol. 11, no. 11, 2024, doi: [10.3390/aerospace11110888](https://doi.org/10.3390/aerospace11110888).
   - Repo: https://github.com/ezrafielding/PrioriSat
